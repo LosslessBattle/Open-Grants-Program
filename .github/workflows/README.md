@@ -3,7 +3,7 @@
 While it requires some assumptions & is somewhat limited in scope, it's possible to run local testing on some of the workflows
 
 ## Setup
-0. Setup your Google API Credentials on https://console.developers.google.com/
+0. Setup your Google API Credentials on https://console.developers.google.com
 - Credentials -> Create Credentials -> Service Accounts
 
 1. Follow the instructions for installing [act](https://github.com/nektos/act)
